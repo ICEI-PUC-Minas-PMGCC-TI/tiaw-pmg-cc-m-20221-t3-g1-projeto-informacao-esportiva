@@ -10,6 +10,8 @@
 * Rodrigo Costa Tayer
 * Davi de Pinho Lima
 * Igor Guedes
+* Bernardo Carlos do Nascimento
+* Gabriel Costa Gontijo
 
 ## Professores responsáveis
 
